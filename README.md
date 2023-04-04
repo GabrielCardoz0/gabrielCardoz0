@@ -83,8 +83,6 @@
 
 ##
 
-![Snake animation](https://github.com/GabrielCardoz0/gabrielCardoz0/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 <img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=GabrielCardoz0&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
