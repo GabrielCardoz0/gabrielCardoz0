@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning NextJS and Tailwind
 - 💬 Ask me about Javascript, Typescript, ReactJS and NodeJS
-- ⚡ Fun fact: ...
+- ⚡ One fact about me: my favorite anime/manga is Hunter x Hunter
 
 ## Languages
 
