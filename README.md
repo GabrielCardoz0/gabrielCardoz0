@@ -81,10 +81,6 @@
   </a>
 </div>
 
-##
-
-##
-
 <img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=GabrielCardoz0&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCardoz0&layout=compact&theme=dark#gh-dark-mode-only&locale=pt-br)](https://github.com/GabrielCardoz0/github-readme-stats)
