@@ -4,7 +4,6 @@
 
 [![Email](https://img.shields.io/badge/gabriel.scardozo7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.scardozo7@gmail.com)
 [![LinkedId](https://img.shields.io/badge/Gabriel-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsilvacardozo/)
-[![Instagram](https://img.shields.io/badge/Gabriel.cardozo7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.cardozo7/)
 [![GitHub](https://img.shields.io/badge/GabrielCardoz0-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCardoz0)
 
 ## About me 😊
