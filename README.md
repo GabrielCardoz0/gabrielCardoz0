@@ -8,7 +8,7 @@
 
 ## About me 😊
 
-- 🌱 I’m currently learning NextJS and Tailwind
+- 🌱 I’m currently learning NestJS and Tailwind
 - 💬 Ask me about Javascript, Typescript, ReactJS and NodeJS
 - ⚡ One fact about me: my favorite anime/manga is Hunter x Hunter
 
